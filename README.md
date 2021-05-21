@@ -2,15 +2,7 @@
 
 A new Flutter application.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is aimed as a start-up innovation which outrivals other transportation service providers such as uber, ola , jugnuu etc.
+Our main goal is to provide a travel trip platform where any user can play both role of driver as well as rider at one time.
+It is not necessary to the users out there to have any specific registration to act as driver.
+We plan to create an application where rider notifies the nearby driver available and after verifying some check points, both rider and driver meets and completes the ride.
