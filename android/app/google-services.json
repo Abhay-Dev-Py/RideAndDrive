@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "69380003053",
+    "project_id": "uber-clone-e9d36",
+    "storage_bucket": "uber-clone-e9d36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69380003053:android:1ebe26e39a3e7890b668e4",
+        "android_client_info": {
+          "package_name": "com.abhay.productionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69380003053-ioas95r3uj9vtri6ft3abbo9ao64joj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8xxX1I-4h_AT8aL-O9tze8cpGDt0Khnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69380003053-ioas95r3uj9vtri6ft3abbo9ao64joj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
